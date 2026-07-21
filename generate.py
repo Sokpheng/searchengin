@@ -13,6 +13,8 @@ from dotenv import load_dotenv
 
 load_dotenv()  
 import os
+import time
+from functools import lru_cache
 from typing import List
 
 from retrieve import SearchResult
@@ -54,19 +56,99 @@ def build_prompt(query: str, chunks: List[SearchResult]) -> str:
     )
 
 
+# Free-tier quota is bucketed per model -- the 429 payload names the quota
+# "GenerateRequestsPerMinutePerProjectPerModel" -- so falling through this
+# list on a rate limit buys a fresh allowance instead of waiting out one
+# model's window. Ordered best-quality first; override via GEMINI_MODELS.
+DEFAULT_GEMINI_MODELS = (
+    "gemini-3.5-flash",
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite",
+)
+GEMINI_CASCADE_PASSES = 2
+
+
+def _gemini_models() -> List[str]:
+    """Model cascade, from GEMINI_MODELS (comma-separated) or the default."""
+    configured = os.environ.get("GEMINI_MODELS", "")
+    models = [m.strip() for m in configured.split(",") if m.strip()]
+    return models or list(DEFAULT_GEMINI_MODELS)
+
+
+def _retry_delay_seconds(exc: Exception) -> float:
+    """How long the server asked us to wait, or 2s if it didn't say.
+
+    google-genai exposes the error body as raw JSON, so the RetryInfo hint
+    arrives as {"@type": ".../RetryInfo", "retryDelay": "2.78s"}.
+    """
+    details = getattr(exc, "details", None)
+    if isinstance(details, dict):
+        for item in details.get("error", {}).get("details", []) or []:
+            if not isinstance(item, dict) or "RetryInfo" not in item.get("@type", ""):
+                continue
+            try:
+                return float(str(item.get("retryDelay", "")).rstrip("s")) + 1.0
+            except ValueError:
+                break
+    return 2.0
+
+
+def _is_rate_limit(exc: Exception) -> bool:
+    return getattr(exc, "code", None) == 429
+
+
+@lru_cache(maxsize=1)
+def _gemini_client(api_key: str):
+    """One client per key -- reused across calls rather than rebuilt each time."""
+    from google import genai
+
+    return genai.Client(api_key=api_key)
+
+
 def _call_gemini(prompt: str) -> str:
-    import google.generativeai as genai
+    from google.genai import errors as genai_errors
 
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise GenerationError("GEMINI_API_KEY is not set.")
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-3.5-flash')
-    response = model.generate_content(prompt)
-    text = getattr(response, "text", None)
-    if not text:
-        raise GenerationError("Gemini returned an empty response.")
-    return text.strip()
+    client = _gemini_client(api_key)
+
+    models = _gemini_models()
+    failures = {}
+
+    for pass_num in range(1, GEMINI_CASCADE_PASSES + 1):
+        rate_limited = []
+        for name in models:
+            try:
+                response = client.models.generate_content(model=name, contents=prompt)
+            except genai_errors.APIError as e:
+                if _is_rate_limit(e):
+                    failures[name] = "rate limited"
+                    rate_limited.append(e)
+                else:
+                    failures[name] = f"{getattr(e, 'code', '?')} {getattr(e, 'status', '')}".strip()
+                continue
+            except Exception as e:  # noqa: BLE001 - a bad model name shouldn't sink the rest
+                failures[name] = str(e).splitlines()[0][:120]
+                continue
+            text = getattr(response, "text", None)
+            if not text:
+                failures[name] = "empty response"
+                continue
+            return text.strip()
+
+        # Sleeping and re-running the list only helps if every failure was a
+        # quota one -- bad model names and empty responses won't self-heal.
+        if len(rate_limited) < len(models) or pass_num == GEMINI_CASCADE_PASSES:
+            break
+        time.sleep(max(_retry_delay_seconds(e) for e in rate_limited))
+
+    detail = "; ".join(f"{name}: {why}" for name, why in failures.items())
+    raise GenerationError(
+        f"All Gemini models failed ({detail}). Free-tier quota is per model "
+        "per minute -- wait a minute, add more models to GEMINI_MODELS in "
+        ".env, or set OPENAI_API_KEY to enable the fallback backend."
+    )
 
 
 def _call_openai(prompt: str) -> str:
