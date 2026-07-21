@@ -9,7 +9,9 @@ module does NOT decide whether retrieval quality was good enough to answer
 -- that threshold check happens in app.py before generate_answer() is ever
 called, per the "graceful failure" requirement.
 """
+from dotenv import load_dotenv
 
+load_dotenv()  
 import os
 from typing import List
 
