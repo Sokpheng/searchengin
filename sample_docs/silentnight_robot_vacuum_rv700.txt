@@ -1,0 +1,39 @@
+SilentNight Robot Vacuum - User Manual
+Model: RV-700
+Category: Home
+MSRP: $299
+
+1. KEY SPECIFICATIONS
+- LiDAR mapping navigation
+- 2700Pa suction
+- self-emptying base
+- runs up to 150 minutes per charge
+
+2. SETUP AND FIRST USE
+1. Place the charging base against a wall with 1.5 feet of clearance on each side.
+2. Let the robot fully charge before its first cleaning run.
+3. Use the app to run an initial mapping pass of your home.
+4. Set up no-go zones in the app for areas to avoid.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: Wheels stuck or lifted off the ground; place robot on a flat surface.
+- E2: Dustbin full; empty it or return to base for auto-empty.
+- E5: Side brush tangled with hair or debris; clean and reinstall.
+- E9: LiDAR sensor obstructed; wipe the sensor window.
+If the issue persists after following these steps, contact customer support with your model number (RV-700) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Keep cords and small objects off the floor to prevent tangling.
+- Do not use on wet floors or to pick up liquids.
+- Supervise use around stairs even though a drop sensor is included.
+
+5. WARRANTY
+This product is covered by a 1-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+1-year warranty; brushes and filters are consumable parts not covered.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Empty and rinse the dustbin weekly.
+- Clean the side brushes and rollers of hair every 1-2 weeks.
+- Replace the HEPA filter every 3 months.

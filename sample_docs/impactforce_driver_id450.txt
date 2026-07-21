@@ -1,0 +1,38 @@
+ImpactForce Driver - User Manual
+Model: ID-450
+Category: Power Tools
+MSRP: $119
+
+1. KEY SPECIFICATIONS
+- 18V battery platform
+- up to 1800 in-lbs torque
+- 3-speed settings
+- 1/4-inch hex chuck
+
+2. SETUP AND FIRST USE
+1. Charge the included battery for at least 60 minutes before first use.
+2. Slide the battery into the driver base until it clicks.
+3. Select a speed setting appropriate for the fastener size.
+4. Insert the driver bit fully into the quick-release chuck.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E2: Battery contacts dirty; clean with a dry cloth.
+- E3: Overload detected; ease up on applied pressure.
+- E5: Chuck jammed; remove bit and inspect for debris.
+If the issue persists after following these steps, contact customer support with your model number (ID-450) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Wear hearing protection; impact mechanism is loud under load.
+- Do not use damaged or worn driver bits.
+- Keep the tool pointed away from yourself and others when testing the trigger.
+
+5. WARRANTY
+This product is covered by a 3-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+3-year warranty matching the PowerDrive drill's battery platform.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Wipe down the chuck weekly to prevent bit slippage.
+- Store in the provided case to protect against dust.
+- Check battery contacts for corrosion every few months.

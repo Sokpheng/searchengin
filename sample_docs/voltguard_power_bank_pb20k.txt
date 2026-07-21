@@ -1,0 +1,38 @@
+VoltGuard Power Bank - User Manual
+Model: PB-20K
+Category: Electronics
+MSRP: $39
+
+1. KEY SPECIFICATIONS
+- 20,000mAh capacity
+- 65W USB-C PD fast charging
+- 3 output ports
+- LED charge indicator
+
+2. SETUP AND FIRST USE
+1. Charge the power bank fully before first use (roughly 2.5 hours at 65W).
+2. Connect your device using any of the 3 output ports.
+3. Press the button once to check the remaining charge level.
+4. Use the USB-C PD port for fastest charging of compatible laptops.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: Overcurrent protection triggered; disconnect and reconnect the cable.
+- E2: Internal temperature too high; allow the unit to cool before continuing.
+- E3: Short circuit detected on an output port; try a different cable.
+If the issue persists after following these steps, contact customer support with your model number (PB-20K) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Do not expose to temperatures above 113°F.
+- Do not puncture or disassemble the battery housing.
+- Stop use immediately if the case becomes swollen or discolored.
+
+5. WARRANTY
+This product is covered by a 2-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+2-year warranty; capacity is expected to degrade to ~80% after 500 charge cycles.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Recharge at least once every 3 months if stored long-term.
+- Avoid letting the battery fully drain repeatedly.
+- Keep charging ports free of lint and debris.

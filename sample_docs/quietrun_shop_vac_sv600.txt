@@ -1,0 +1,38 @@
+QuietRun Shop Vac - User Manual
+Model: SV-600
+Category: Power Tools
+MSRP: $89
+
+1. KEY SPECIFICATIONS
+- 6-gallon tank
+- 4.5 peak HP motor
+- wet/dry capability
+- washable foam filter
+
+2. SETUP AND FIRST USE
+1. Attach the desired filter based on wet or dry use.
+2. Connect the hose to the inlet port until it clicks.
+3. Plug in and use the power switch on the motor head.
+4. Empty and rinse the tank after wet pickup before storing.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: Tank lid not sealed correctly; suction reduced.
+- E3: Filter clogged; suction power will drop noticeably.
+- E4: Float shutoff triggered during wet pickup; empty the tank.
+If the issue persists after following these steps, contact customer support with your model number (SV-600) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Never vacuum flammable liquids or hot ashes.
+- Do not run without a filter installed for dry debris.
+- Unplug before removing the motor head.
+
+5. WARRANTY
+This product is covered by a 2-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+2-year warranty on the motor; filters and hoses are consumables.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Rinse the foam filter after each wet-pickup use.
+- Check the float ball for debris that could jam it.
+- Store the hose uncoiled to prevent kinking.

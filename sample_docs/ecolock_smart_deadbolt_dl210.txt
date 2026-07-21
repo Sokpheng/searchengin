@@ -1,0 +1,38 @@
+EcoLock Smart Deadbolt - User Manual
+Model: DL-210
+Category: Smart Home
+MSRP: $179
+
+1. KEY SPECIFICATIONS
+- fingerprint, code, and app unlock
+- auto-lock after 30 seconds
+- battery backup (4 AA, 6-month life)
+- fits standard door prep
+
+2. SETUP AND FIRST USE
+1. Verify your door thickness (1-3/8 to 2 inches) matches compatibility before installing.
+2. Remove the existing deadbolt and retain mounting screws if compatible.
+3. Install the exterior and interior assemblies, connecting the wiring harness between them.
+4. Insert batteries and complete setup through the companion app.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: Low battery warning; replace all 4 AA batteries as a set.
+- E2: Fingerprint not recognized after 3 attempts; re-enroll in the app.
+- E4: Door misaligned; deadbolt cannot extend fully into the strike plate.
+If the issue persists after following these steps, contact customer support with your model number (DL-210) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Keep a physical backup key accessible in case of full battery failure.
+- Do not use rechargeable batteries; voltage drop can cause malfunctions.
+- Test the lock thoroughly before relying on it as your primary door lock.
+
+5. WARRANTY
+This product is covered by a 2-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+2-year warranty on electronics; mechanical deadbolt components covered for 5 years.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Replace all 4 batteries together every 6 months, not individually.
+- Lubricate the bolt mechanism yearly with graphite lubricant.
+- Wipe the fingerprint sensor with a dry cloth if recognition slows down.

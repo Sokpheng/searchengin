@@ -1,0 +1,38 @@
+StreamCast 4K Media Player - User Manual
+Model: MP-4K
+Category: Electronics
+MSRP: $49
+
+1. KEY SPECIFICATIONS
+- 4K HDR streaming
+- dual-band Wi-Fi
+- voice remote
+- 8GB internal storage
+
+2. SETUP AND FIRST USE
+1. Connect the HDMI cable to an open port on your TV.
+2. Plug in the power adapter and select the correct HDMI input.
+3. Follow the on-screen setup wizard to connect to Wi-Fi.
+4. Sign in to your streaming accounts through the Settings menu.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: Wi-Fi connection dropped; check router distance and signal strength.
+- E3: Remote not pairing; hold the pair button for 5 seconds.
+- E7: Storage full; clear cached app data in Settings.
+If the issue persists after following these steps, contact customer support with your model number (MP-4K) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Do not block ventilation slots on the device housing.
+- Use only the included power adapter.
+- Keep away from direct heat sources.
+
+5. WARRANTY
+This product is covered by a 1-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+1-year warranty; does not cover third-party app subscription issues.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Restart the device weekly to clear background processes.
+- Update system software when prompted for security patches.
+- Keep the device in a well-ventilated area to avoid overheating.

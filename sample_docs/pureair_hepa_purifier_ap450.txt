@@ -1,0 +1,38 @@
+PureAir HEPA Purifier - User Manual
+Model: AP-450
+Category: Home
+MSRP: $159
+
+1. KEY SPECIFICATIONS
+- covers up to 450 sq ft
+- true HEPA H13 filter
+- 3 fan speeds plus auto mode
+- air quality sensor
+
+2. SETUP AND FIRST USE
+1. Remove the plastic wrap from the filter before first use.
+2. Place on a flat surface with at least 12 inches of clearance on all sides.
+3. Plug in and press the power button; auto mode is recommended for daily use.
+4. Check the filter indicator light monthly.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: Filter not installed correctly; the unit will not power on.
+- E2: Filter replacement indicator active; filter needs replacing.
+- E3: Air quality sensor blocked; clean the sensor intake.
+If the issue persists after following these steps, contact customer support with your model number (AP-450) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Do not operate without a filter installed.
+- Keep away from water sources; this is not a waterproof appliance.
+- Do not block the air intake or outlet grilles.
+
+5. WARRANTY
+This product is covered by a 2-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+2-year warranty on the motor; filters are consumable and not covered.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Replace the HEPA filter every 6-8 months under normal use.
+- Vacuum the pre-filter screen every 2 weeks.
+- Wipe the air quality sensor with a dry cotton swab monthly.

@@ -1,0 +1,38 @@
+PulsePro Fitness Watch - User Manual
+Model: FW-88
+Category: Electronics
+MSRP: $199
+
+1. KEY SPECIFICATIONS
+- 1.4-inch AMOLED display
+- 7-day battery life
+- 5 ATM water resistance
+- built-in GPS
+
+2. SETUP AND FIRST USE
+1. Charge fully using the included magnetic charging cable before first use.
+2. Download the companion app and create an account.
+3. Pair the watch via Bluetooth from the app's device setup screen.
+4. Set your profile (height, weight, age) for accurate calorie tracking.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E01: Bluetooth pairing timeout; restart both devices and retry.
+- E04: GPS signal not found; move to an open outdoor area.
+- E09: Battery critically low; connect the charging cable.
+If the issue persists after following these steps, contact customer support with your model number (FW-88) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Not rated for high-velocity water activities like water skiing.
+- Avoid charging in temperatures above 95°F.
+- Consult a doctor before relying on heart-rate alerts for medical decisions.
+
+5. WARRANTY
+This product is covered by a 1-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+1-year limited warranty; battery capacity loss after 12 months is not covered.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Clean the sensor contacts on the back weekly.
+- Update firmware monthly via the companion app.
+- Avoid prolonged direct sunlight exposure to prevent display degradation.

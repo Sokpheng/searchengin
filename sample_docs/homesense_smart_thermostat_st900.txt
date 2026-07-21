@@ -1,0 +1,38 @@
+HomeSense Smart Thermostat - User Manual
+Model: ST-900
+Category: Smart Home
+MSRP: $149
+
+1. KEY SPECIFICATIONS
+- Wi-Fi enabled
+- learns schedule after 1 week
+- compatible with most 24V HVAC systems
+- geofencing support
+
+2. SETUP AND FIRST USE
+1. Turn off power to your HVAC system at the breaker before installation.
+2. Label existing wires before disconnecting your old thermostat.
+3. Mount the new base plate and connect wires per the included wiring guide.
+4. Restore power and follow the app's setup wizard to connect Wi-Fi.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: Wiring configuration not recognized; verify against the wiring guide.
+- E2: Wi-Fi connection lost; check router placement and signal.
+- E4: HVAC system not responding; check breaker and wire connections.
+If the issue persists after following these steps, contact customer support with your model number (ST-900) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Turn off power at the breaker before any wiring work.
+- Do not install near direct sunlight or heat vents, which skews readings.
+- Consult an HVAC professional if your system uses a C-wire alternative.
+
+5. WARRANTY
+This product is covered by a 3-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+3-year warranty; professional installation costs are not covered.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Clean the display with a dry microfiber cloth.
+- Update firmware when prompted in the app.
+- Replace HVAC filters per your system's schedule for accurate readings.

@@ -1,0 +1,38 @@
+BrightView 27-inch Monitor - User Manual
+Model: MN-27Q
+Category: Electronics
+MSRP: $249
+
+1. KEY SPECIFICATIONS
+- 2560x1440 resolution
+- 165Hz refresh rate
+- 1ms response time
+- HDR400 support
+
+2. SETUP AND FIRST USE
+1. Attach the stand to the monitor base before mounting to the panel.
+2. Connect via DisplayPort for full 165Hz refresh rate (HDMI caps at 144Hz).
+3. Use the joystick on the rear panel to access the on-screen menu.
+4. Enable HDR in your operating system's display settings.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: No signal detected; check cable connection and input source.
+- E2: Refresh rate not supported by current cable; switch to DisplayPort.
+- E5: Panel self-test failure; contact support.
+If the issue persists after following these steps, contact customer support with your model number (MN-27Q) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Do not press directly on the LCD panel.
+- Use a surge protector; power spikes can damage the internal board.
+- Allow ventilation space above and behind the monitor.
+
+5. WARRANTY
+This product is covered by a 3-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+3-year warranty covering dead pixels beyond the industry-standard threshold.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Dust the vents on the rear panel monthly.
+- Use a microfiber cloth only; avoid ammonia-based cleaners on the screen.
+- Recalibrate color settings every few months for accuracy.

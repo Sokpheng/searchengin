@@ -1,0 +1,38 @@
+SteadyCut Circular Saw - User Manual
+Model: CS-185
+Category: Power Tools
+MSRP: $139
+
+1. KEY SPECIFICATIONS
+- 7-1/4 inch blade
+- 15A corded motor
+- bevel cuts up to 56 degrees
+- laser guide
+
+2. SETUP AND FIRST USE
+1. Inspect the blade guard for free movement before use.
+2. Set the cutting depth to roughly 1/4 inch deeper than material thickness.
+3. Align the laser guide with your cut line.
+4. Allow the blade to reach full speed before contacting material.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: Blade guard obstructed; will not retract.
+- E4: Motor brush wear detected; service recommended.
+- E6: Laser guide battery low.
+If the issue persists after following these steps, contact customer support with your model number (CS-185) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Never remove or wedge open the blade guard.
+- Keep hands at least 6 inches from the blade path.
+- Disconnect power before changing blades.
+
+5. WARRANTY
+This product is covered by a 2-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+2-year warranty; does not cover blade wear or laser calibration.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Replace the blade after roughly 500 linear feet of cutting.
+- Check the bevel adjustment lock monthly.
+- Clear sawdust from vents after every use.

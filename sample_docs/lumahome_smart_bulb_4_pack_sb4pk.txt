@@ -1,0 +1,38 @@
+LumaHome Smart Bulb 4-Pack - User Manual
+Model: SB-4PK
+Category: Smart Home
+MSRP: $44
+
+1. KEY SPECIFICATIONS
+- 800 lumens per bulb
+- 16 million colors
+- Wi-Fi direct, no hub required
+- voice assistant compatible
+
+2. SETUP AND FIRST USE
+1. Screw bulbs into standard E26 sockets and power on.
+2. Open the companion app and select 'Add Device'.
+3. Follow the in-app prompts to connect each bulb to Wi-Fi individually.
+4. Group bulbs into rooms within the app for scene control.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: Bulb not discovered during setup; move closer to the router and retry.
+- E2: Bulb flickering; check for a compatible dimmer switch (standard dimmers are not supported).
+- E5: Voice assistant link expired; re-link the skill/action in its app.
+If the issue persists after following these steps, contact customer support with your model number (SB-4PK) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Do not use with incompatible mechanical dimmer switches.
+- Do not exceed the fixture's rated wattage equivalent.
+- Allow the bulb to cool before handling after extended use.
+
+5. WARRANTY
+This product is covered by a 1-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+1-year warranty; excludes bulbs used with unsupported dimmer switches.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Dust the bulb surface occasionally to maintain brightness.
+- Keep firmware updated via the app for new features.
+- Avoid frequent power cycling, which can shorten bulb lifespan.

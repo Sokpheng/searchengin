@@ -1,0 +1,38 @@
+ClearSound Wireless Earbuds - User Manual
+Model: WE-33
+Category: Electronics
+MSRP: $59
+
+1. KEY SPECIFICATIONS
+- Bluetooth 5.3
+- 24-hour total battery with case
+- active noise cancellation
+- IPX4 sweat resistance
+
+2. SETUP AND FIRST USE
+1. Charge the case fully via USB-C before first use (about 90 minutes).
+2. Remove both earbuds from the case to enter pairing mode automatically.
+3. Select the earbuds from your device's Bluetooth menu.
+4. Use the companion app to customize the touch controls.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: Left and right earbuds out of sync; return both to the case for 10 seconds.
+- E2: Case battery below 5%; charging required before use.
+- E3: Firmware update failed; keep earbuds within 3 feet of your phone and retry.
+If the issue persists after following these steps, contact customer support with your model number (WE-33) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Do not submerge in water; IPX4 only protects against sweat and light rain.
+- Keep volume below 85 decibels for extended listening sessions.
+- Discontinue use if you experience ear irritation.
+
+5. WARRANTY
+This product is covered by a 1-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+1-year warranty; excludes damage from moisture beyond IPX4 rating.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Clean the ear tips weekly with a dry, soft cloth.
+- Avoid leaving the case in direct sunlight or hot cars.
+- Replace ear tips every 6 months for the best seal.

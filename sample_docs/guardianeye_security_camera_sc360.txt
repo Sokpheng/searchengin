@@ -1,0 +1,38 @@
+GuardianEye Security Camera - User Manual
+Model: SC-360
+Category: Smart Home
+MSRP: $99
+
+1. KEY SPECIFICATIONS
+- 1080p HD video
+- night vision up to 30 feet
+- two-way audio
+- local and cloud storage options
+
+2. SETUP AND FIRST USE
+1. Download the companion app and create an account before unboxing.
+2. Mount the camera bracket using the included screws and anchors.
+3. Power on and scan the QR code on the camera base with the app.
+4. Select local (microSD) or cloud storage in the app settings.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: Camera offline; check Wi-Fi signal strength at the mounting location.
+- E3: microSD card not detected or improperly formatted.
+- E6: Motion detection sensitivity misconfigured, causing frequent false alerts.
+If the issue persists after following these steps, contact customer support with your model number (SC-360) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Do not mount facing directly into strong sunlight; it can wash out footage.
+- Ensure mounting hardware is rated for outdoor use if installing outside.
+- Review local laws regarding audio recording before enabling two-way audio.
+
+5. WARRANTY
+This product is covered by a 2-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+2-year warranty on hardware; cloud storage subscription is billed separately.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Wipe the lens with a microfiber cloth monthly.
+- Check mounting screws for looseness every few months.
+- Reformat the microSD card every 6 months to maintain write speed.

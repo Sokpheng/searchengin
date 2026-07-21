@@ -1,0 +1,5 @@
+streamlit
+sentence-transformers
+numpy
+python-dotenv
+google-genai

@@ -1,0 +1,38 @@
+PowerDrive 20V Drill - User Manual
+Model: PD-720
+Category: Power Tools
+MSRP: $159
+
+1. KEY SPECIFICATIONS
+- 20V lithium-ion battery
+- two-speed gearbox (0-500 / 0-1800 RPM)
+- 1/2-inch keyless chuck
+- LED work light
+
+2. SETUP AND FIRST USE
+1. Charge the battery fully (approx. 90 minutes) before first use.
+2. Insert the battery into the drill until it clicks into place.
+3. Select forward or reverse rotation with the direction switch.
+4. Adjust the clutch collar to the appropriate torque setting for your material.
+
+3. TROUBLESHOOTING
+If an error code appears, refer to the table below:
+- E1: Battery not fully seated in the drill housing.
+- E2: Battery below 10% charge; low-power mode engaged.
+- E5: Motor overheated; release the trigger and let cool for 10 minutes.
+If the issue persists after following these steps, contact customer support with your model number (PD-720) and a description of the problem.
+
+4. SAFETY WARNINGS
+- Always wear eye protection when drilling.
+- Disconnect the battery before changing bits.
+- Do not use in wet conditions unless rated for it.
+
+5. WARRANTY
+This product is covered by a 3-year limited warranty from the date of purchase, covering defects in materials and workmanship under normal use.
+3-year tool warranty; battery warranty is 2 years.
+Proof of purchase is required for all warranty claims.
+
+6. MAINTENANCE
+- Clean dust from the chuck jaws after each use.
+- Store the battery at partial charge if unused for over a month.
+- Lubricate the chuck mechanism every 6 months.
